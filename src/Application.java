@@ -1,6 +1,7 @@
 import helloworld.HelloWorld;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
+import scopedemo.SingletonScopeDemo;
 
 public class Application {
 
@@ -10,5 +11,12 @@ public class Application {
 
         HelloWorld helloWorld = (HelloWorld) context.getBean("helloWorld");
         helloWorld.getMessage();
+
+        SingletonScopeDemo ssd = (SingletonScopeDemo)context.getBean("singletonScope");
+        ssd.setMessage("i am ssd.");
+        ssd.getMessage();
+
+        SingletonScopeDemo ssd2 = (SingletonScopeDemo)context.getBean("singletonScope");
+        ssd2.getMessage();
     }
 }
