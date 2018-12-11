@@ -9,4 +9,7 @@
 
     <bean id = "singletonScope" class="scopedemo.SingletonScopeDemo" scope="singleton">
     </bean>
+
+    <bean id = "prototypeScope" class="scopedemo.PrototypeScopeDemo" scope="prototype">
+    </bean>
 </beans>
