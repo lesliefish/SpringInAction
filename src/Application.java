@@ -1,3 +1,4 @@
+import beanlifecycle.BeanLifeCycleTest;
 import helloworld.HelloWorld;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
@@ -26,5 +27,9 @@ public class Application {
 
         PrototypeScopeDemo psd2 = (PrototypeScopeDemo)context.getBean("prototypeScope");
         psd2.getMessage();
+
+
+        BeanLifeCycleTest beanLifeStyleTest = (BeanLifeCycleTest)context.getBean("beanLifeCycleTest");
+        ((ClassPathXmlApplicationContext) context).registerShutdownHook();
     }
 }
