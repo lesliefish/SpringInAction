@@ -16,4 +16,11 @@
     <bean id = "beanLifeCycleTest" class="beanlifecycle.BeanLifeCycleTest"
           scope="singleton" init-method="init" destroy-method="destroy">
     </bean>
+
+    <bean id = "beanPostProcessorDemo" class = "beanpostprocessor.BeanPostProcessorDemo" init-method="init"
+          destroy-method="destroy">
+        <property name="message" value = "just a test"></property>
+    </bean>
+
+    <bean class="beanpostprocessor.InitBeanPostProcessorDemo"></bean>
 </beans>
