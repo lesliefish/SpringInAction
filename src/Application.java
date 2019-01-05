@@ -1,3 +1,5 @@
+import beaninheritance.BeanInheritance1;
+import beaninheritance.BeanInheritance2;
 import beanlifecycle.BeanLifeCycleTest;
 import beanpostprocessor.BeanPostProcessorDemo;
 import helloworld.HelloWorld;
@@ -12,29 +14,13 @@ public class Application {
 
         ApplicationContext context = new ClassPathXmlApplicationContext("spring-config.xml");
 
-//        HelloWorld helloWorld = (HelloWorld) context.getBean("helloWorld");
-//        helloWorld.getMessage();
-//
-//        SingletonScopeDemo ssd = (SingletonScopeDemo)context.getBean("singletonScope");
-//        ssd.setMessage("i am ssd.");
-//        ssd.getMessage();
-//
-//        SingletonScopeDemo ssd2 = (SingletonScopeDemo)context.getBean("singletonScope");
-//        ssd2.getMessage();
-//
-//        PrototypeScopeDemo psd = (PrototypeScopeDemo)context.getBean("prototypeScope");
-//        psd.setMessage("psd");
-//        psd.getMessage();
-//
-//        PrototypeScopeDemo psd2 = (PrototypeScopeDemo)context.getBean("prototypeScope");
-//        psd2.getMessage();
-//
-//
-//        BeanLifeCycleTest beanLifeStyleTest = (BeanLifeCycleTest)context.getBean("beanLifeCycleTest");
-//        ((ClassPathXmlApplicationContext) context).registerShutdownHook();
+        BeanInheritance1 objA = (BeanInheritance1) context.getBean("helloWorld");
+        objA.getMessage1();
+        objA.getMessage2();
 
-        BeanPostProcessorDemo demo = (BeanPostProcessorDemo)context.getBean("beanPostProcessorDemo");
-        demo.getMessage();
-        ((ClassPathXmlApplicationContext) context).registerShutdownHook();
+        BeanInheritance2 objB = (BeanInheritance2) context.getBean("helloIndia");
+        objB.getMessage1();
+        objB.getMessage2();
+        objB.getMessage3();
     }
 }
