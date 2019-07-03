@@ -9,13 +9,15 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 import scopedemo.PrototypeScopeDemo;
 import scopedemo.SingletonScopeDemo;
 
-public class Application {
+public class Application
+{
 
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
 
         ApplicationContext context = new ClassPathXmlApplicationContext("spring-config.xml");
 
-        ConstructorBased constructorBased = (ConstructorBased)context.getBean("constructorBased");
+        ConstructorBased constructorBased = (ConstructorBased) context.getBean("constructorBased");
         constructorBased.saySth();
     }
 }

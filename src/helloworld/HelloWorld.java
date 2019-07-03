@@ -1,13 +1,16 @@
 package helloworld;
 
-public class HelloWorld {
+public class HelloWorld
+{
     private String message;
 
-    public void getMessage() {
+    public void getMessage()
+    {
         System.out.println("Message is " + message);
     }
 
-    public void setMessage(String message) {
+    public void setMessage(String message)
+    {
         this.message = message;
     }
 }
