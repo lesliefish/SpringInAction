@@ -2,70 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ab3f38c-25b7-4186-bfcd-dc20e4bd4a39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AspectJBasedAOP/.idea/dictionaries/yulei10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AspectJBasedAOP/.idea/libraries/Spring_4_3_18_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AspectJBasedAOP/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AspectJBasedAOP/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AspectJBasedAOP/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AspectJBasedAOP/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AspectJBasedAOP/AspectJBasedAOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AspectJBasedAOP/src/Beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AspectJBasedAOP/src/com/lesliefish/Logging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AspectJBasedAOP/src/com/lesliefish/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AspectJBasedAOP/src/com/lesliefish/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_4_3_16_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringJDBC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-aop-4.3.16.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-aspects-4.3.16.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-beans-4.3.16.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-context-4.3.16.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-context-support-4.3.16.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-core-4.3.16.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-expression-4.3.16.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-instrument-4.3.16.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-instrument-tomcat-4.3.16.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-jdbc-4.3.16.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-jms-4.3.16.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-messaging-4.3.16.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-orm-4.3.16.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-oxm-4.3.16.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-test-4.3.16.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-tx-4.3.16.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesliefish/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesliefish/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesliefish/StudentDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesliefish/StudentDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesliefish/StudentMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoWiringByType/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoWiringByType/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutowiringByName/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutowiringByName/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BasedConstructorDependencyInjection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BasedConstructorDependencyInjection/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BeanDefine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BeanDefine/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BeanDefinitionInheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BeanDefinitionInheritance/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BeanFactoryHelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BeanFactoryHelloWorld/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BeanInheritance/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BeanInheritance/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BeanInheritance/src/Beans.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BeanInheritance/src/com/lesliefish/BeanTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BeanInheritance/src/com/lesliefish/MainApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BeanInheritance/src/com/lesliefish/SonBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BeanLifeCycle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BeanLifeCycle/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BeanPostProcessors/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BeanPostProcessors/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BeanScopes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BeanScopes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CustomEvent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomEvent/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EventHandling/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EventHandling/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../InjectingCollection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InjectingCollection/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../InjectingInnerBeans/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InjectingInnerBeans/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SetterBasedDependencyInjection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SetterBasedDependencyInjection/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../XmlSchemaBasedAop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../XmlSchemaBasedAop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,6 +15,7 @@
     <session id="-1537397899">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -162,8 +100,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/lesliefish/MainApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="42" column="30" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+            <state relative-caret-position="272">
+              <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -268,7 +206,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563175666871" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563176326082" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mysql-connector-java-8.0.16.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -319,12 +257,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563171958515</updated>
-      <workItem from="1563171959722" duration="3872000" />
+      <workItem from="1563171959722" duration="4604000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3872000" />
+    <option name="totallyTimeSpent" value="4604000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
@@ -345,7 +283,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22845276" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22845276" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -438,8 +376,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lesliefish/MainApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="42" column="30" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+        <state relative-caret-position="272">
+          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
