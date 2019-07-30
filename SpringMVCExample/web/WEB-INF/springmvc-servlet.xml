@@ -6,6 +6,7 @@
 
     <context:component-scan base-package="com.lesliefish.hello" />
     <context:component-scan base-package="com.lesliefish.formhandling" />
+    <context:component-scan base-package="com.lesliefish.redirect" />
 
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="prefix" value="/WEB-INF/jsp/" />
